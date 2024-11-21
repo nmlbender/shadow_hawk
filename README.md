@@ -14,7 +14,7 @@ My interest in cybersecurity was sparked during my educational journey, where I 
 |----------------------------------------------------------------|----------------------------|
 | ANZ Australia Cyber Security Management Job Simulation         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection                | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR                          | SOC Automation Lab|
+| Analyze Packet using Wireshark                                 | https://www.cloudskillsboost.google/public_profiles/654a1f59-7a2f-4ed0-b04f-e057076c8f2b|
 | Incident Response Planning and Execution                       | SOC Automation Lab|
 | Case Management with TheHive                                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation                 | SOC Automation Lab|
